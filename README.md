@@ -12,8 +12,7 @@
 - Computer Science Undergraduate Student. 
 - Combining my experience in healthcare and software development.
 - Always looking for opportunities to help out and learn more!
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
+- 
 ```javascript
 const achenalia = {
     pronouns: "She" | "Her",
@@ -27,3 +26,4 @@ const achenalia = {
     },
 }
 ```
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
