@@ -13,7 +13,8 @@ I'm an **EMT** turned **Software Developer** focused on building innovative heal
 
 I'm always open to opportunities to collaborate, answer questions, or learn more!
 
-'''python
+<br />
+
 class achenalia:
     def __init__(self):
         self.pronouns = ["She", "Her"]
@@ -60,4 +61,5 @@ class achenalia:
     def collaborate(self, role, organization, location):
         opportunity = self.employment
         opportunity[role] = [organization, location]
-'''
+        
+me = achenalia()
