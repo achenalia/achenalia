@@ -6,12 +6,13 @@
 <a href="mailto:esme.taylor.richardson@gmail.com">
   <img align="left" alt="Esmé's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
+<br />
+
 
 ### I'm an EMT turned Software Developer focused on building innovative healthcare solutions to make both patients' and providers' lives easier.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<br />
 
 - FOSS enthusiast.
 - Computer Science Undergraduate Student. 
