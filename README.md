@@ -16,6 +16,8 @@ I'm an **EMT** turned **Software Developer** focused on building innovative heal
 
 I'm always open to opportunities to collaborate, answer questions, or learn more!
 
+<br />
+
 ```python
 class ReadMe:
     def __init__(self, username, year):
