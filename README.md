@@ -1,5 +1,6 @@
-<img src="https://wp.flatirons.com/wp-content/uploads/2024/05/12.png></img>
-
+<p align="center">
+  <img src="https://wp.flatirons.com/wp-content/uploads/2024/05/12.png">
+</p>
 ### 👋 Hello World !
   
 Combining :heart: Healthcare and :black_heart: Programming!
