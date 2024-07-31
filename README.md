@@ -1,7 +1,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=achenalia&show_icons=true&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged" alt="achenalia" />
 
-<h3 align="left">Hi, I'm Esmé</h3>
-<h2 align="left">I'm an EMT turned Software Developer focused on building innovative healthcare solutions to make both patients' and providers' lives easier.</h2>
+<h2 align="left">Hi, I'm Esmé</h2>
+<h3 align="left">I'm an EMT turned Software Developer focused on building innovative healthcare solutions to make both patients' and providers' lives easier.</h3>
 <br></br>
 <br></br>
 
