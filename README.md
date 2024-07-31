@@ -10,8 +10,8 @@
   
 I'm an EMT turned Software Developer focused on building innovative healthcare solutions to make both patients' and providers' lives easier.
 
-- 🔭 I’m currently working on richRecovery [React, Express, Socket.IO, PostgreSQL], a realtime at-home patient care charting solution designed to allow family members to keep notes on their loved one's recovery progress following a major medical procedure.
-- 💬 Ask me about anything. I will try to help you as much as I can.
+- 🔭 I’m currently working on richRecovery, a realtime at-home patient care charting solution designed to allow family members to keep notes on their loved one's recovery progress following a major medical procedure.
+- 💬 Contact me for collaboration, questions, or anything else!
 
 ```javascript
 const achenalia = {
