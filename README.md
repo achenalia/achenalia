@@ -7,7 +7,7 @@
   </a>
 </h2>
   
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/dXKLXks7fK9qrRxbHF/200w.gif?cid=6c09b9527thutc5aaqacpzcqu0f1qn3bm1e4gkiz4hjiu014&ep=v1_gifs_search&rid=200w.gif&ct=g" />
+<img align="right" alt="GIF" src="https://giffiles.alphacoders.com/842/8426.gif" />
 
 I'm an **EMT** turned **Software Developer** focused on building innovative healthcare solutions to make both patients' and providers' lives easier.
 
