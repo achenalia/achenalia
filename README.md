@@ -17,7 +17,7 @@ I'm always open to opportunities to collaborate, answer questions, or learn more
 
 ```python
 class readMe:
-    def __init__(self, username="achenalia", year=2024):
+    def __init__(self, username, year):
         self.username = username
         self.pronouns = ["She", "Her"]
         self.ask_me_about = ["software dev", "web dev", "tech"]
@@ -64,5 +64,5 @@ class readMe:
         opportunity = self.employment
         opportunity[role] = [organization, location]
         
-me = readMe(2024)
+me = readMe('achenalia', 2024)
 ```
