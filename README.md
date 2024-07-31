@@ -9,11 +9,11 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   
-I'm an EMT turned Software Developer focused on building innovative healthcare solutions to make both patients' and providers' lives easier.
-
-- I’m currently working on richRecovery, a realtime at-home patient care charting solution designed to allow family members to keep notes on their loved one's recovery progress following a major medical procedure.
-  
--  Contact me for collaboration, questions, or anything else!
+### I'm an EMT turned Software Developer focused on building innovative healthcare solutions to make both patients' and providers' lives easier.
+- A Free and Open Source enthusiast.
+- A Computer Science Undergraduate Student. 
+- Currently working on projects combining my experience in healthcare and software development.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ```javascript
 const achenalia = {
