@@ -8,4 +8,4 @@ I'm an EMT turned Software Developer focused on building innovative healthcare s
      [React, Express, Socket.IO, PostgreSQL]
 - 🌱 I’m currently learning Full Stack Web development and Machine Learning.
 - 💬 Ask me about anything. I will try to help you as much as I can.
-- 📬 Feel free to <href src="mailto:esme.taylor.richardson@gmail.com">email</href> me for collaboration!
+- 📬 Feel free to <a href="mailto:esme.taylor.richardson@gmail.com">email</a> me for collaboration!
