@@ -19,6 +19,9 @@ I'm always open to opportunities to collaborate, answer questions, or learn more
   <img align="right" alt="vertical-GIF" width="300px" src="https://miro.medium.com/v2/resize:fit:700/1*krJsZsRUsIz3kCEW8VaC0A.gif" />
 </div>
 <br />
+<br />
+<br />
+<br />
 
 ```python
 class ReadMe:
