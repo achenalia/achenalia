@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achenalia&show_icons=true&locale=en" alt="achenalia" /></p><h3 align="right>Hi, I'm Esmé!</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achenalia&show_icons=true&locale=en" alt="achenalia" /></p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">I'm an EMT turned Software Developer focused on building innovative healthcare solutions to make both patients' and providers' lives easier.</h3>
 
 <h3 align="left"> These are the languages and tools I am currently using for my projects: </h3>
