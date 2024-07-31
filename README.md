@@ -8,7 +8,7 @@
   <img align="left" alt="Esmé's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 <a href="">
-  <img align="left alt="Linux" width="22px" src="https://icon2.cleanpng.com/20240217/wb/transparent-linux-logo-penguin-silhouette-in-x-shape-on-1710874567828.webp" />
+  <img align="left alt="Linux" width="22px" src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo-1.png" />
 </a>
 <br />
 
