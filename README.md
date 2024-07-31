@@ -9,7 +9,8 @@
 
 <div>
   <img align="right" alt="GIF" width="300px" src="https://miro.medium.com/v2/resize:fit:700/1*krJsZsRUsIz3kCEW8VaC0A.gif" />
-  <img align="bottom" alt="GIF" width="200px" src="https://i.gifer.com/origin/29/290b383afb7c810c0635b6662ea8660d_w200.gif" />
+  <br />
+  <img align="right" alt="GIF" width="200px" src="https://i.gifer.com/origin/29/290b383afb7c810c0635b6662ea8660d_w200.gif" />
 </div>
 
 I'm an **EMT** turned **Software Developer** focused on building innovative healthcare solutions to make both patients' and providers' lives easier.
