@@ -7,7 +7,7 @@
   </a>
 </h2>
   
-<img align="right" alt="GIF" src="https://media.cpfounders.com/wp-content/uploads/2022/06/16164759/CPF_DataIcon_black.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/AFJXk7dMEGztoDFDm2/giphy.gif" />
 
 I'm an **EMT** turned **Software Developer** focused on building innovative healthcare solutions to make both patients' and providers' lives easier.
 
