@@ -1,5 +1,5 @@
 <h2>Hi, I'm Esmé Taylor R.</h2><img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
+<br />
 <a href="https://github.com/achenalia">
   <img align="left" alt="Esmé's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
