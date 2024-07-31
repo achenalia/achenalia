@@ -17,6 +17,9 @@ I'm always open to opportunities to collaborate, answer questions, or learn more
 
 <br />
 
+<img align="right" alt="Coder-GIF" width="300px" src="https://miro.medium.com/v2/resize:fit:700/1*krJsZsRUsIz3kCEW8VaC0A.gif" />
+
+
 ```python
 class ReadMe:
     def __init__(self, username, year):
@@ -68,4 +71,3 @@ class ReadMe:
         
 me = ReadMe('achenalia', 2024)
 ```
-<img align="right" alt="Coder-GIF" width="300px" src="https://miro.medium.com/v2/resize:fit:700/1*krJsZsRUsIz3kCEW8VaC0A.gif" />
