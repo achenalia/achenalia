@@ -16,8 +16,9 @@ I'm always open to opportunities to collaborate, answer questions, or learn more
 <br />
 
 ```python
-class achenalia:
-    def __init__(self):
+class readMe:
+    def __init__(self, username="achenalia", year=2024):
+        self.username = username
         self.pronouns = ["She", "Her"]
         self.ask_me_about = ["software dev", "web dev", "tech"]
         self.technologies = {
@@ -27,7 +28,7 @@ class achenalia:
             "dev_ops": ["AWS", "Docker", "Git"],
             "misc": ["Socket.IO"]
         }
-        self.year = 2024 # TODO: Update per year!!!
+        self.year = year
         self.employment = {
             'EMT': ['Emergency Medical Technician', 'Atlanta, Ga'],
             'Developer' : ['Developer', 'Online']            
@@ -63,5 +64,5 @@ class achenalia:
         opportunity = self.employment
         opportunity[role] = [organization, location]
         
-me = achenalia()
+me = readMe(2024)
 ```
