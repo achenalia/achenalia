@@ -9,9 +9,9 @@
 </a>
 <br />
 
-  I'm an **EMT** turned **Software Developer** focused on building innovative healthcare solutions to make both patients' and providers' lives easier.
-  - Computer Science Undergraduate Student (B.A.)
-  - I'm always open to opportunities to collaborate, answer questions, or learn more!
+I'm an **EMT** turned **Software Developer** focused on building innovative healthcare solutions to make both patients' and providers' lives easier.
+- Computer Science Undergraduate Student (B.A.)
+- I'm always open to opportunities to collaborate, answer questions, or learn more!
 
     
 ```javascript
