@@ -1,4 +1,4 @@
-<h2>Hi, I'm Esmé Taylor R.</h2><img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> 
+<h2>Hi, I'm Esmé Taylor R.</h2><img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> <img align="right alt="Linux" width="96px" src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo-1.png" />
 
 <a href="https://github.com/achenalia">
   <img align="left" alt="Esmé's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
