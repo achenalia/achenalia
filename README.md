@@ -9,6 +9,7 @@
 
 ### I'm an EMT turned Software Developer focused on building innovative healthcare solutions to make both patients' and providers' lives easier.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 - FOSS enthusiast.
 - Computer Science Undergraduate Student. 
 - Combining my experience in healthcare and software development.
