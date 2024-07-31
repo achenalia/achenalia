@@ -15,8 +15,6 @@ I'm an **EMT** turned **Software Developer** focused on building innovative heal
 
 I'm always open to opportunities to collaborate, answer questions, or learn more!
 
-  <img align="right" alt="Coder-GIF" width="300px" src="https://miro.medium.com/v2/resize:fit:700/1*krJsZsRUsIz3kCEW8VaC0A.gif" />
-
 <br />
 
 ```python
@@ -70,3 +68,4 @@ class ReadMe:
         
 me = ReadMe('achenalia', 2024)
 ```
+<img align="right" alt="Coder-GIF" width="300px" src="https://miro.medium.com/v2/resize:fit:700/1*krJsZsRUsIz3kCEW8VaC0A.gif" />
