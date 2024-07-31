@@ -10,13 +10,8 @@
 <br />
 
 
-### I'm an EMT turned Software Developer focused on building innovative healthcare solutions to make both patients' and providers' lives easier.
+I'm an **EMT** turned **Software Developer** focused on building innovative healthcare solutions to make both patients' and providers' lives easier.
 
-- FOSS enthusiast.
-- Computer Science Undergraduate Student. 
-- Combining my experience in healthcare and software development.
-- Always looking for opportunities to help out and learn more!
-  
 ```javascript
 const achenalia = {
     pronouns: "She" | "Her",
