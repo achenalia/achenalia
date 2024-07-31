@@ -1,9 +1,8 @@
+<h2>Hi, I'm Esmé Taylor R.</h2>
+
 <p align="center">
   <img src="https://wp.flatirons.com/wp-content/uploads/2024/05/12.png">
 </p>
-### 👋 Hello World !
-  
-Combining :heart: Healthcare and :black_heart: Programming!
   
 I'm an EMT turned Software Developer focused on building innovative healthcare solutions to make both patients' and providers' lives easier.
 
