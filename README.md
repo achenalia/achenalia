@@ -13,16 +13,49 @@ I'm an **EMT** turned **Software Developer** focused on building innovative heal
 
 I'm always open to opportunities to collaborate, answer questions, or learn more!
     
-```javascript
-const achenalia = {
-    pronouns: "She" | "Her",
-    askMeAbout: ["software dev", "web dev", "tech"],
-    technologies:{
-        backEnd: ["nodejs", "express", "django", "python"],
-        fronEnd: ["react"],
-        database: ["postgresql"],
-        devOps: ["AWS", "Docker", "Git"],
-        misc: ["Socket.IO"]
-    },
-}
-```
+class achenalia:
+    def __init__(self):
+        self.pronouns = ["She", "Her"]
+        self.ask_me_about = ["software dev", "web dev", "tech"]
+        self.technologies = {
+            "back_end": ["nodejs", "express", "django", "python"],
+            "front_end": ["react"],
+            "database": ["postgresql"],
+            "dev_ops": ["AWS", "Docker", "Git"],
+            "misc": ["Socket.IO"]
+        }
+        self.year = 2024 # TODO: Update per year!!!
+        self.employment = {
+            'EMT': ['Emergency Medical Technician', 'Atlanta, Ga'],
+            'Developer' : ['Developer', 'Online']            
+        }
+        self.education = {
+            'college': ['Bachelor of Arts in Computer Science (B.A.)', 'University'],
+            'programming': ['Self-Taught', 'Projects']
+        }
+
+    def doing(self, now):
+        today = self.year
+
+        if now < today:
+            job = self.employment['EMT']
+            school = self.education['college']
+            return f"""
+            I was working as an {job[0]} in {job[1]} while pursuing a {school[0]} at {school[1]}.
+            """
+        elif now == today:
+            current = self.education['programming']
+            return f"""
+            I am mostly {current[0]}, learning from my many {current[1]}!
+            """
+        elif now > today:
+            goal = self.employment['developer']
+            return f"""
+            I am eager to collaborate with other {goal[0]}s, feel free to contact me {goal[1]}.
+            """
+        else:
+            return "To be continued..."
+
+    def collaborate(self, role, organization, location):
+        opportunity = self.employment
+        opportunity[role] = [organization, location]
