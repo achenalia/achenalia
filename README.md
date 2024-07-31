@@ -1,14 +1,13 @@
 <h2>Hi, I'm Esmé Taylor R.</h2><img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-
+<a href="">
+  <img align="left alt="Linux" width="128px" src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo-1.png" />
+</a>
 <a href="https://github.com/achenalia">
   <img align="left" alt="Esmé's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="mailto:esme.taylor.richardson@gmail.com">
   <img align="left" alt="Esmé's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a>
-<a href="">
-  <img align="left alt="Linux" width="64px" src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo-1.png" />
 </a>
 <br />
 
