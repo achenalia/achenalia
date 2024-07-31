@@ -13,9 +13,10 @@ I'm an **EMT** turned **Software Developer** focused on building innovative heal
 
 I'm always open to opportunities to collaborate, answer questions, or learn more!
 
-<br />
 <img align="right" alt="GIF" width="300px" src="https://i.gifer.com/origin/29/290b383afb7c810c0635b6662ea8660d_w200.gif" />
 
+
+<br />
 
 ```python
 class ReadMe:
