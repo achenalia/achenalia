@@ -3,7 +3,7 @@
 <a href="">
   <img align="left alt="Linux" width="96px" src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo-1.png" />
 </a>
-
+<br />
 <a href="https://github.com/achenalia">
   <img align="left" alt="Esmé's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
