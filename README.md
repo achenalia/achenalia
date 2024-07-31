@@ -1,4 +1,4 @@
-<h2>Hi, I'm Esmé Taylor R.</h2><img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />   <img align="left alt="Linux" width="96px" src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo-1.png" />
+<img align="left alt="Linux" width="96px" src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo-1.png" /><h2>Hi, I'm Esmé Taylor R.</h2><img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> 
 
 
 <a href="">
