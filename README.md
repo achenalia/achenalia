@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achenalia&label=Profile%20views&color=0e75b6&style=flat" alt="achenalia" /> </p>
 
-- 🔭 I’m currently working on [richRecovery](https://github.com/achenalia/richCharting)
-
-- 🌱 I’m currently learning **Go, Electron,**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
