@@ -8,7 +8,7 @@
 </h2>
 
 <div>
-  <img align="right" position="absolute" alt="Coder-GIF" width="300px" src="https://miro.medium.com/v2/resize:fit:700/1*krJsZsRUsIz3kCEW8VaC0A.gif" />
+  <img align="right" alt="Coder-GIF" width="300px" src="https://miro.medium.com/v2/resize:fit:700/1*krJsZsRUsIz3kCEW8VaC0A.gif" />
   <img align="right" position="relative" top="300px" alt="Coder-GIF" width="300px" src="https://miro.medium.com/v2/resize:fit:700/1*krJsZsRUsIz3kCEW8VaC0A.gif" />
 
 </div>
