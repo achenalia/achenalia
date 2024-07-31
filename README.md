@@ -1,5 +1,5 @@
-<h2>Hi, I'm Esmé Taylor R.</h2> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esme.taylor.richardson@gmail.com)](mailto:esme.taylor.richardson@gmail.com)
-
+<h2>Hi, I'm Esmé Taylor R.</h2>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esme.taylor.richardson@gmail.com)](mailto:esme.taylor.richardson@gmail.com)
 <p align="center">
   <img src="https://wp.flatirons.com/wp-content/uploads/2024/05/12.png">
 </p>
