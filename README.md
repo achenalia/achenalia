@@ -7,7 +7,7 @@
   </a>
 </h2>
   
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/b8edb8ef68c5706c33a8effed20beb0811c3221261c5926ba7086fcc89e8e17d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" />
+<img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:700/1*krJsZsRUsIz3kCEW8VaC0A.gif" />
 
 I'm an **EMT** turned **Software Developer** focused on building innovative healthcare solutions to make both patients' and providers' lives easier.
 
