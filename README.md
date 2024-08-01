@@ -22,11 +22,11 @@ class ReadMe:
         self.pronouns = ["She", "Her"]
         self.ask_me_about = ["software dev", "web dev", "tech"]
         self.technologies = {
-            "back_end": ["nodejs", "express", "django", "python"],
+            "back_end": ["nodejs", "express", "django", "python", "go"],
             "front_end": ["react"],
             "database": ["postgresql"],
             "dev_ops": ["AWS", "Docker", "Git"],
-            "misc": ["Socket.IO"]
+            "misc": ["Socket.IO", "keras", "tensorflow", "scikit-learn"]
         }
         self.year = year
         self.employment = {
