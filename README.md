@@ -2,7 +2,7 @@
   <a href="https://github.com/achenalia">
   <img align="right" alt="Esmé's Github" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-  <a href="mailto:esme.taylor.richardson@gmail.com">
+  <a href="mailto:esmetaylorr@gmail.com">
   <img align="right" alt="Esmé's Email" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
   </a>
 </h2>
