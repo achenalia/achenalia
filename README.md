@@ -19,7 +19,7 @@ I'm always open to opportunities to collaborate, answer questions, or learn more
 class ReadMe:
     def __init__(self, username, year):
         self.username = username
-        self.pronouns = ["She", "Her"]
+        self.pronouns = ["They", "Them"]
         self.ask_me_about = ["software dev", "web dev", "tech"]
         self.technologies = {
             "back_end": ["nodejs", "express", "django", "python", "go"],
