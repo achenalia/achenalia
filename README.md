@@ -1,4 +1,4 @@
-<h2>Hi, I'm Esmé Taylor R.
+<h2>Hi, I'm Reese Taylor R.
   <a href="https://github.com/achenalia">
   <img align="right" alt="Esmé's Github" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
